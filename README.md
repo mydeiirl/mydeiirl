@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://youtu.be/U_KCxdp_g4w?si=qFV98QhpNKaEmYew">𝕸𝖔𝖙𝖍 𝖙𝖔 𝖆 𝕱𝖑𝖆𝖒𝖊</a>
+</p>
+
 <p align="left">
 <img width="631" height="338" alt="02612cc08144c96c707c8956430cdfa8_1" src="https://github.com/user-attachments/assets/2576074a-da3e-40a9-a9dd-91288af3576b" />
 </p>
