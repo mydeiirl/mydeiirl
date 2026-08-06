@@ -1,6 +1,8 @@
+
 <p align="center">
-<a href="https://youtu.be/wPN9_Ex8I5Q?si=Lh6cyfIPQhjP0My3">𝕸𝖔𝖙𝖍 𝖙𝖔 𝖆 𝕱𝖑𝖆𝖒𝖊</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorand+Caramont&pause=1000&color=AAAAAA&width=435&lines=Erst+wenn+die+Wolken+schlafen+gehen%2C;Kann+man+uns+am+Himmel+sehen;Wir+haben+Angst+und+sind+allein;GOTT+WEI%C3%9F+ICH+WILL+KEIN+ENGEL+SEIN!!" alt="Typing SVG" /></a>
 </p>
+
 
 <p align="left">
 <img width="631" height="338" alt="02612cc08144c96c707c8956430cdfa8_1" src="https://github.com/user-attachments/assets/2576074a-da3e-40a9-a9dd-91288af3576b" />
