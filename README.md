@@ -43,6 +43,4 @@
 ``𝓦𝓱𝓮𝓻𝓮 𝓲𝓽 𝓽𝓻𝓾𝓵𝔂 𝓵𝓲𝓮𝓼.``
 </p>
 
-<p align="center">
-<img width="335" height="300" alt="88c0c0fe70eba4cbc9ef7c72ab6cb349" src="https://github.com/user-attachments/assets/ae2747c4-6810-4412-8ce4-e6a13ba4110d" />
-</p>
+
