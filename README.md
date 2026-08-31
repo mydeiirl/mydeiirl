@@ -1,7 +1,4 @@
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cormorand+Caramont&pause=1000&color=AAAAAA&width=435&lines=Erst+wenn+die+Wolken+schlafen+gehen%2C;Kann+man+uns+am+Himmel+sehen;Wir+haben+Angst+und+sind+allein;GOTT+WEI%C3%9F+ICH+WILL+KEIN+ENGEL+SEIN!!" alt="Typing SVG" /></a>
-</p>
 
 
 <p align="left">
